@@ -55,11 +55,11 @@ by_bridge = false
 enable = true
 
 ; The username for authentication. Insert this name when prompted for login.
-username = "tgrss"
+username = ""
 
 ; The password for authentication. Insert this password when prompted for login.
 ; Use a strong password to prevent others from guessing your login!
-password = ")Z*`SqXJ3Ju?2a-u>k!/[L3Q-?<Z9J"
+password = ""
 
 [error]
 
